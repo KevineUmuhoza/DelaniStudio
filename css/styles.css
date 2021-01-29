@@ -1,5 +1,5 @@
 .intro {
-    background-image: url("/home/kevine/Desktop/DelaniStudio/assets/backgrounds/h_img.jpg");
+    background-image: url("../assets/backgrounds/h_img.jpg");
     text-align: center;
     color: white;
     
@@ -21,7 +21,7 @@
     padding-bottom: 50px;
 }
 .services {
-    background-image: url("/home/kevine/Desktop/DelaniStudio/assets/backgrounds/s_image.jpg");
+    background-image: url("../assets/backgrounds/s_image.jpg");
     text-align: center;
     color: white;
     padding-top: 150px;
@@ -57,8 +57,7 @@
     margin-left: 40px;
 }
 .contactUs{
-    background-image: url("/home/kevine/Desktop/DelaniStudio/assets/backgrounds/c_image.jpg");
-    color: white;
+    background-image: url("../assets/backgrounds/c_image.jpg");
     text-align:center;
     padding-top: 50px;
     
