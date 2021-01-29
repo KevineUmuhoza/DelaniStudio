@@ -26,4 +26,4 @@ Please contact me on ckevny@gmail.com if you run into any issues or have questio
 ### License
 This project is licensed under the terms of the MIT license.
 
-Copyright (c) 2021 Kevine Umuhoza
+Copyright g(c) 2021 Kevine Umuhoza
