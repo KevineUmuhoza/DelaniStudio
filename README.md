@@ -10,7 +10,6 @@ Landing page for a studio called Delani studio.
 
 ## Site
 http://KevineUmuhoza.github.io/DelaniStudio
-
 ## Technologies Used
 Poject is created with:
  . HTML
