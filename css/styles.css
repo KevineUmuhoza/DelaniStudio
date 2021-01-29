@@ -38,12 +38,16 @@
     display: none;
 }
 .hover{
+    position: sticky;
+    
+    bottom: 800px;
+    left:0; 
+    width: 200px;
+    height: 200px;
     opacity:0;
     background-color: rgba(255, 255, 255, 0.623);
-    top:25%;
-    bottom:25%;
-    left:25%;
-    right:25%; 
+  
+
     
 }
 .name-on-portfolio-image{
