@@ -26,3 +26,12 @@
     padding-top: 150px;
     padding-bottom: 100px;
 }
+.whatWeDo{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.hide{
+    display: none;
+}
