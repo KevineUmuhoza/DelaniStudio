@@ -9,7 +9,7 @@ Landing page for a studio called Delani studio.
 * open it in a browser
 
 ## Site
-
+http://KevineUmuhoza.github.io/DelaniStudio
 
 ## Technologies Used
 Poject is created with:
