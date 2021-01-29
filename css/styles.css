@@ -53,3 +53,13 @@
    
    align-items: center;
 }
+.contactUs{
+    background-image: url("/home/kevine/Desktop/DelaniStudio/assets/backgrounds/c_image.jpg");
+    color: white;
+    text-align:center;
+    padding-top: 50px;
+    
+}
+#contact{
+    margin-bottom: 30px;
+}
