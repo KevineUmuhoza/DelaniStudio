@@ -1,6 +1,7 @@
 .intro {
     background-image: url("/home/kevine/Desktop/DelaniStudio/assets/backgrounds/h_img.jpg");
     text-align: center;
+    color: white;
     
     
 }
@@ -34,4 +35,21 @@
 
 .hide{
     display: none;
+}
+.hover{
+    background-color: rgba(255, 255, 255, 0.623);
+    opacity: 0.5;
+    top: 25%;
+    bottom: 25%;
+    right: 25%;
+    left: 25%;
+    position: auto;
+    
+}
+.name-on-portfolio-image{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   
+   align-items: center;
 }
