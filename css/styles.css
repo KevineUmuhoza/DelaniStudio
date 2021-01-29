@@ -63,3 +63,28 @@
 #contact{
     margin-bottom: 30px;
 }
+input[type=text]{
+    background-color: transparent;
+    width: 70%;
+    margin-left: 90px;
+    color: white;
+    
+}
+input::placeholder{
+    color: white;
+    
+}
+
+textarea[type=text] {
+   background-color: transparent;
+   width: 70%;
+   margin-left: 200px;
+   margin-top: 50px;
+   color: white
+
+}
+textarea::placeholder{
+    color: white;
+    
+}
+
